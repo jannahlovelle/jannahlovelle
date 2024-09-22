@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jannahlovelle
 - 👀 I’m interested in...
-- 🌱 I’m currently learning java, c, and html/css
+- 🌱 I’m currently learning java, c, html/css, python django
 - 💞️ I’m looking to collaborate on a lot
 - 📫 How to reach me ...
 
