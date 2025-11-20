@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @cararys
-- 👀 I’m interested in...
-- 🌱 I’m currently learning java, c, html/css, python django
+# I am Cariris
+
 ## 🚀 Tech Stack
 
 ### 🖥️ Programming Languages
